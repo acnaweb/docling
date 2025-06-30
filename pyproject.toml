@@ -13,7 +13,8 @@ authors = [
 ]
 dependencies = [
   "python-dotenv~=1.0",
-  "loguru~=0.7"
+  "loguru~=0.7",
+  "docling"
 ]
 
 [project.urls]
