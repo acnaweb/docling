@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/acnaweb/docling/compare/v0.1.0...v0.2.0) (2025-06-30)
+
+
+### Features
+
+* add example ([9202ac2](https://github.com/acnaweb/docling/commit/9202ac21479044f62cff26ca822279bf843ea169))
+
 ## 0.1.0 (2025-06-30)
 
 
